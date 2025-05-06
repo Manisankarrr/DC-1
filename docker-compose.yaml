@@ -2,6 +2,7 @@ version: '3.1'
 services:
   my-app:
     build: .
+    image: manisankarrr/dc-demo:latest
     ports:
       - "3000:3000"
     environment:
