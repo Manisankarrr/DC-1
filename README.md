@@ -1,4 +1,4 @@
-## demo app - for docker-compose crash course
+## demo app - using docker-compose 
 
 
 ### With Docker
