@@ -1,0 +1,9 @@
+node_modules
+
+.DS_Store
+
+.idea/*
+
+
+.env
+# Ignore all files in the .idea directory except for the workspace.xml file
